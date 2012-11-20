@@ -1,6 +1,6 @@
 00:45
 
-Pursuit squad, report the current positions of the two units
+Pursuit squad, report the current positions of units Unit 02-Dash and Unit 08
 
 Unit 02-Dash has reached operation altitude
 
@@ -62,9 +62,9 @@ Deceleration complete
 
 Preparing to enter final operation orbit
 
-Flipping unit  head. Commencing rotation
+Flipping unit head. Commencing rotation
 
-Descent angle confirmed to be within error ranges
+Descent angle confirmed to be within our margin of error
 
 Recalculating relative velocity
 
@@ -82,7 +82,7 @@ Now commencing the operation
 
 All remote guiding will now be cut
 
-Unit will be controlled locally
+Unit will be controlled manually
 
 Good luck
 
@@ -636,13 +636,13 @@ Shinji:
         Ah, it's kind of hard to say it right.
 Kaworu:
         You got your feelings through.
-        Not looking for change, but rather a stable kind of world. It's like you.
+        You aren't looking for change, but rather a stable world. It's like you.
         It's nice, I didn't know that lying out here together could be so pleasant. Thanks for inviting me.
 Shinji:
         Oh, no you don't need to...I just was thinking that if you wanted to, it'd be fun and-
 <Shinji turns his head, to find Kaworu looking right at him, an ode to episode 24>
 Kaworu:
-        It is fun.
+        It IS fun.
         I really was born to meet you.
 <End stargazing scene, cuts to next morning, Shinji brushing his teeth.>
 
@@ -657,7 +657,7 @@ Kaworu:
         Here, it should work now.
 Shinji: Thanks, you're amazing, Nagisa-kun. You can do everything.
 Kaworu:
-        It was just following some instructions. It was just suspended in time a little longer than you.
+        I was just following some instructions. It was just suspended in time a little longer than you.
 Shinji:
         But still...You're amazing.
 Kaworu:
@@ -701,7 +701,7 @@ S: This is Nerv's-- what my father was doing.
 K: Ikari Shinji-kun, once awakened, Eva-01 became the trigger for Third Impact and opened the Door of Guf. Lilin call it Near Third Impact. It was all initiated by you. 
 S: You're wrong! All I did was save Ayanami! 
 K: True, but that was the cause... 
-S: All this... I didn't know. You're telling me it all so fast, and there's nothing I can do about it! 
+S: All this... I didn't know. You're telling me this all so fast, and there's nothing I can do about it! 
 K: Indeed. There's nothing you can do about your past. 
 The truth you desired to know. 
 The Lilin are providing you reparation for your sin as a result. 
