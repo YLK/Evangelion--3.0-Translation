@@ -64,7 +64,7 @@ Preparing to enter final operational orbit
 
 Flipping unit  head. Commencing rotation
 
-Descent angle confirmed to be within an acceptable range of error.
+Descent angle confirmed to be within an acceptable margin of error.
 
 Recalculating relative velocity
 
@@ -82,7 +82,7 @@ Now commencing the operation
 
 All remote guiding will now be cut
 
-Unit will be controlled locally
+Unit will be controlled manually
 
 Good luck
 
@@ -438,7 +438,7 @@ I've been waiting for you
 26:27 混乱するのも無理ないわ。少尉！
 26:29 はいっ
 26:31 彼に官姓名を。
-26:31 Right. Um, it's late, but I'm the medical officer in charge(? 管理担当医官). Second Lt Suzuhara Sakura. Nice to meet you. 
+26:31 Right. Um, it's a bit late for this, but I'm the medical officer in charge(? 管理担当医官). Second Lt Suzuhara Sakura. Nice to meet you. 
 26:43 Ah, y-yes.
 26:47 But, Suzuhara... Touji's? 
 26:51 Ah, yes. You've helped my big brother. I'm his little sister Sakura. 
@@ -454,7 +454,7 @@ I've been waiting for you
 27:36 Built up anger and grief. 
 27:40 What do you mean... Ah, Asuka, your left eye... 
 27:44 That has nothing to do with you. 
-27:45 Asuka. You said 14 years, but nothing has changed except that eyepatch. 
+27:45 Asuka. You said 14 years, but nothing has changed about you except that eyepatch. 
 27:52 Right. It's the Eva's Curse. 
 27:56 Curse? 
 28:00 Wait! Asuka, maybe you'll know! Where's Ayanami?! 
@@ -683,7 +683,7 @@ Kaworu:
 
 
   (50:22) 
-K: The clouds will break in short order, and you behold the truth you so desire.
+K: The clouds will break in short order, and you will behold the truth you so desire.
 S: What is this...? 
 K: The result of Third Impact, which came to pass during your slumber in Eva-01. 
 S: This is... What happened to everyone in the city? 
